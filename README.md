@@ -3,7 +3,7 @@
 
 ![Maurice's Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+my+GitHub+Profile)
 
-![Maurice's Motto](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=42C93A&lines=Digital+Strategist;Data+Lover;Project+Manager)
+![Maurice's Motto](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=42C93A&lines=Digital+Strategist;Data+Lover;Project+Manager)
 
 ---
 
