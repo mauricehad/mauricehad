@@ -1,71 +1,73 @@
-# 🚀 Bienvenue sur mon profil GitHub !
+# 👋 Hello, I'm Maurice Haddad  
+**Digital Strategy Expert | Data Science Enthusiast | Project Manager**  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=435&lines=Hello%2C+world!+%F0%9F%91%8B;Bienvenue+sur+mon+profil;Je+suis+Maurice!+%F0%9F%91%BB)
+![Maurice's Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+my+GitHub+Profile)
 
----
-
-## 🌟 À propos de moi
-
-- 🔭 Je travaille actuellement sur **des projets en Data Science et Machine Learning**.
-- 🌱 J'apprends actuellement **le Deep Learning et React Native**.
-- 💬 N'hésitez pas à me poser des questions sur **Python, Data Analysis, et Web Scraping**.
-- 📫 Vous pouvez me contacter via **[LinkedIn](https://www.linkedin.com/in/votreprofil/)**.
+![Maurice's Motto](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=42C93A&lines=Digital+Strategist+%7C+Data+Lover+%7C+Project+Manager)
 
 ---
 
-## 🛠️ Technologies & Outils
+## 🚀 About Me  
+Experienced digital strategist with 14 years of operational and strategic experience across various industries. Passionate about leveraging data to optimize business performance and implementing automation to drive growth.
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
-![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
----
-
-## 📊 Statistiques GitHub
-
-![Maurice's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 📍 Based in Paris, France  
+- 🎯 Specialized in **Digital Strategy, Data Analysis, and Automation**  
+- 💼 Currently working at **Clustaar By Ad's Up** as Head of Sales SEO/SEA
 
 ---
 
-## 📈 Langages les plus utilisés
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🚧 Projets en cours
-
-- [ ] Création d'une application mobile avec React Native
-- [ ] Tableau de bord interactif en Streamlit
-- [x] Déploiement d'une API sur Hugging Face
+## 💡 What I Do  
+- **🚀 Digital Strategy Consulting:** Helping businesses scale through data-driven strategies.  
+- **📊 Data Analysis & Visualization:** Using tools like **Tableau, Data Studio, and Python** to extract insights.  
+- **🛠 Project Management:** Leading cross-functional teams with Agile and Scrum methodologies.  
 
 ---
 
-## 🎵 Musique que j'écoute en codant
+## 🔧 Technologies & Tools  
 
-[![Spotify](https://novatorem-tau.vercel.app/api/spotify)](https://open.spotify.com/user/yourspotifyid)
-
----
-
-## 🏆 Badges GitHub
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,aws,docker,github" alt="skills" />
+</p>
 
 ---
 
-## 🏁 Objectifs 2025
+## 📈 GitHub Stats  
 
-1. Contribuer à des projets open-source
-2. Apprendre plus sur les architectures ML avancées
-3. Développer une application web full-stack
+![Maurice's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauricehaddad&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauricehaddad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mauricehaddad&theme=react-dark)
+
+---
+
+## 📚 Featured Projects  
+
+### [🔗 Getaround Analysis Dashboard](https://github.com/mauricehaddad/getaround-dashboard)  
+*Developed an interactive dashboard to analyze rental impact and revenue trends.*  
+
+### [🔗 Salesforce Automation Suite](https://github.com/mauricehaddad/salesforce-automation)  
+*Implemented automated workflows to improve CRM efficiency and reduce manual tasks.*  
 
 ---
 
-## 📬 Contact
+## 📬 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/votreprofil/)
-[![Mail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:votremail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricehaddad)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurice.haddad@email.com)
 
 ---
+
+## 🎵 Fun Facts About Me  
+- 🎵 I work best with jazz music in the background.  
+- 🏃‍♂️ I enjoy playing squash to stay active.  
+- ☕ Coffee addict, especially when coding.  
+
+---
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x250.png?text=Project+1" width="40%">
+  <img src="https://via.placeholder.com/400x250.png?text=Project+2" width="40%">
+</p>
+
+**Thank you for visiting my profile! Feel free to explore my projects and reach out for collaborations.** ✨
